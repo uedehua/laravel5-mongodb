@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Ue
+        psr4_prefix: Ue
+        src_path: app
